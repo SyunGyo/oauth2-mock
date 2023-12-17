@@ -1,0 +1,6 @@
+get_login_path: /login
+post_login_path: /login
+post_token_path: /token
+get_info_path: /info
+address: 0.0.0.0
+port: 3005
